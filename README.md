@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ahiru-t3ch
+- 👀 I’m interested in Tech / SAAS
+- 🌱 I’m currently learning how to create a SAAS
