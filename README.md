@@ -10,7 +10,7 @@
 - Launch a Mirco SAAS in 2025 and drink :beer:
 
 # My current project
-- Create a opensource template with essential functionnalities to launch a SAAS :bug:
+- Create a opensource boilerplate with essential functionnalities to launch a SAAS :bug:
   - [farm-docker-template](https://github.com/ahiru-t3ch/farm-docker-template)
  
 # My odl projects
