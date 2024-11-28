@@ -1,7 +1,7 @@
 # About me @ahiru-t3ch :wave:
 - I used to dev after my degree in "computing science and project management"
 - Then I switched to "Business Analyst" and "Production Support Analyst"
-- Now I'm a Freelance "Business Analyst" and "Scrum Master"
+- Now I'm a Freelance "Business Analyst" and "Scrum Master" working a classic 9 to 5
 - But I want to dev again because I miss it to much :heart:
 
 # My Goals :v:
