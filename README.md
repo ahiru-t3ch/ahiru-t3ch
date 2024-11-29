@@ -6,8 +6,9 @@
 
 # My Goals :v:
 - Learn a tech stack to create Micro SAAS :seedling:
-- Leave my 9 to 5 in a few years and live while coding Micro SAAS to small companies
-- Launch a Mirco SAAS in 2025 and drink :beer:
+- Become a fullstack dev
+- Leave my 9 to 5 in a few years and live while coding Micro SAAS for small companies
+- Launch my own Mirco SAAS in 2025 and drink :beer:
 
 # My current project
 - Create a opensource boilerplate with essential functionnalities to launch a SAAS :bug:
