@@ -8,12 +8,18 @@
 - Learn a tech stack to create Micro SAAS :seedling:
 - Learn other techs like cybersecurity
 - Change my 9 to 5 in a more technical job (as Dev or Cybersecurity)
-- Leave my 9 to 5 in a few years and live while coding Micro SAAS for small companies
+- Leave my 9 to 5 in a few years and live while coding Micro SAAS and Apps
 - Launch my own Mirco SAAS to have a passive income and drink :beer:
-- Try to find finance freedom to support my family on work on my own project
+- Try to find finance freedom to support my family and work on my own projects
 
-# My current project
+# My current projects
 - Create my own Boilerplate using FARM with essential functionnalities to launch a SAAS :bug:
+- Night classes in Cybersecurity and I subscribed on Try Hack Me platform
+- Build a Fitness Reps counter in 90 days
  
 # My odl projects
 - My old github account witn Public projects: [@ThomasIsHere](https://github.com/ThomasIsHere)
+
+# Social networks (I'm not using those yet)
+- https://www.youtube.com/@Ahiru-T3ch
+- https://x.com/AhiruT3ch
