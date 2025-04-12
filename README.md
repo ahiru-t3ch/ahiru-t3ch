@@ -20,6 +20,8 @@
 # My odl projects
 - My old github account witn Public projects: [@ThomasIsHere](https://github.com/ThomasIsHere)
 
-# Social networks (I'm not using those yet)
-- https://www.youtube.com/@Ahiru-T3ch
-- https://x.com/AhiruT3ch
+# Social networks
+- [Bluesky](https://bsky.app/profile/ahiru-t3ch.bsky.social)
+- I'm not active those:
+  - [YouTube](https://www.youtube.com/@Ahiru-T3ch)
+  - [X](https://x.com/AhiruT3ch)
