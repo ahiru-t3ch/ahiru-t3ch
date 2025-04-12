@@ -1,4 +1,4 @@
-# About me @ahiru-t3ch :wave:
+# About me @ahiru-t3ch :wave::fr::duck:
 - I used to "Dev" after my degree in "computing science and project management"
 - Then I switched to "Business Analyst" and "Production Support Analyst"
 - Now I'm a Freelance "Business Analyst" and "Scrum Master" working a classic 9 to 5
