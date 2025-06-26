@@ -6,8 +6,8 @@
 
 # My Goals :v:
 - Learn a tech stack to create Micro SAAS :seedling:
-- Learn other techs like cybersecurity
-- Change my 9 to 5 in a more technical job (as Dev or Cybersecurity)
+- Learn other techs like cybersecurity, IA, Data Science, ...
+- Change my 9 to 5 in a more technical job
 - Leave my 9 to 5 in a few years and live while coding Micro SAAS and Apps
 - Launch my own Mirco SAAS to have a passive income and drink :beer:
 - Try to find finance freedom to support my family and work on my own projects
