@@ -6,7 +6,7 @@
 # My Goals :v:
 - Learn a tech stack to create Micro SAAS :seedling:
 - Learn other techs like cybersecurity, IA, Data Science, ...
-- Try to find finance freedom to support my family and work on my own projects
+- Freelance in IA
 
 # Social networks
 - [Bluesky](https://bsky.app/profile/ahiru-t3ch.bsky.social)
